@@ -1,0 +1,8 @@
+/* BEGIN css_box */
+section.twitter-feed .fa-twitter:before {
+    content: "\f16d";
+}
+.home img {
+    filter: none !important;
+}
+/* END css_box */
